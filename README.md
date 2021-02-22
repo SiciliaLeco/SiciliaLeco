@@ -21,4 +21,4 @@ I'm Li Qilin (Sicilia), a junior student in Chongqing University, majoring in Co
 
 🔭 I’m currently working on an EYEGAZE project, hopefully to build a system that can capture and estimate human eye's gaze direction. 
 
-I'm glad if you can talk about the interested topic with me!😎
+📫 Reach me: xslialee070@outlook.com
