@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Li Qilin (Sicilia), a junior student in Chongqing University, majoring in Computer Science And Technology. In 2021, I'm visiting NUS, Singapore as a coursework exchange student.
+I'm Li Qilin (Sicilia), a junior student from Chongqing University, majoring in Computer Science And Technology. In 2021, I'm visiting NUS, Singapore as a coursework exchange student.
 
 📚 In this semester, I'm focusing on 3 main aspects: CTF, Machine Learning and some Info Retrivial projects.
 
