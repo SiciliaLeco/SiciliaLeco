@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 I'm Li Qilin (Sicilia), a junior student from Chongqing University majoring in Computer Science And Technology. 
 
-- 🌱 I’m currently preparing English exams for graduates application.
 <table>
  <tr>
    <td><a href="https://github.com/anuraghazra/github-readme-stats">
