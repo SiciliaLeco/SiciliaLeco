@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Li Qilin (Sicilia), a junior student from Chongqing University, majoring in Computer Science And Technology. 
+I'm Li Qilin (Sicilia), a junior student from Chongqing University majoring in Computer Science And Technology. 
 
 <table>
  <tr>
