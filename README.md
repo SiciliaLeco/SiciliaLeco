@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 
 I'm Li Qilin (Sicilia), a junior student from Chongqing University, majoring in Computer Science And Technology. 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SiciliaLeco&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SiciliaLeco&repo=convoychat" />
-</a>
+<table>
+ <tr>
+   <td><a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=SiciliaLeco&show_icons=true&hide_border=true" />
+    </a></td>
+    <td><a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiciliaLeco&layout=compact&hide_border=true&hide=html,javascript,css,assembly&count_private=true" />
+    </a></td>
+  </tr>
+</table>
