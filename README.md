@@ -15,8 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Li Qilin (Sicilia), a junior student from Chongqing University majoring in Computer Science And Technology. 
+I'm Li Qilin (Sicilia), a junior student majoring in Computer Science And Technology at CQU. 
 
+Some info about me:
+
+- 🔭 I’m currently learning Ploygon Mesh Processing
+- 🌱 I’m currently working on TOEFL & GRE exams
+- 🤔 I’m looking for help with CV & CG
+- 📫 How to reach me: xslialee070@outlook.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I am a big fan of Nintendo!
 <table>
  <tr>
    <td><a href="https://github.com/anuraghazra/github-readme-stats">
