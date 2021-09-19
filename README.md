@@ -19,12 +19,11 @@ I'm Li Qilin (Sicilia), a junior student majoring in Computer Science And Techno
 
 Some info about me:
 
-- 🔭 I’m currently learning Ploygon Mesh Processing
-- 🌱 I’m currently working on TOEFL & GRE exams
-- 🤔 I’m looking for help with CV & CG
+- 🔭 I’m currently learning *Ploygon Mesh Processing & Multiple View Geometry in Computer Vision*.
+- 🌱 I’m currently working on GRE exam & Applying for a graduate program
+- 🤔 I’m looking for help with CV & graphics
 - 📫 How to reach me: xslialee070@outlook.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am a big fan of Nintendo!
+- ⚡ Fun fact: I am a big fan of Nintendo, we can have a good time playing games tgt!
 <table>
  <tr>
    <td><a href="https://github.com/anuraghazra/github-readme-stats">
