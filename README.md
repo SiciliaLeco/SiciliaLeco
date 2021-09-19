@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Li Qilin (Sicilia), a junior student majoring in Computer Science And Technology at CQU. 
+Thanks for visiting this webpage! I'm Li Qilin (Sicilia), final year student of Computer Science And Technology @CQU. Here are some info about ME:
 
-Some info about me:
-
-- 🔭 I’m currently learning *Ploygon Mesh Processing & Multiple View Geometry in Computer Vision*.
-- 🌱 I’m currently working on GRE exam & Applying for a graduate program
+- 🔭 I’m learning *Ploygon Mesh Processing & Multiple View Geometry in Computer Vision*.
+- 🌱 I’m currently working on GRE & applying for a graduate program...suggestions are welcomed!
 - 🤔 I’m looking for help with CV & graphics
-- 📫 How to reach me: xslialee070@outlook.com
-- ⚡ Fun fact: I am a big fan of Nintendo, we can have a good time playing games tgt!
+- 📫 How to reach me: xslialee070@outlook.com, wechat: PabloHoneyOK
+- ⚡ Fun fact: I am a big fan of Nintendo and we can have a good time tgt!
 <table>
  <tr>
    <td><a href="https://github.com/anuraghazra/github-readme-stats">
