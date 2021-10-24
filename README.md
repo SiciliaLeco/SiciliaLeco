@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 Thanks for visiting this webpage! I'm Li Qilin (Sicilia), final year student of Computer Science And Technology @CQU. Here are some info about ME:
 
 - 🔭 I’m learning *Ploygon Mesh Processing & Multiple View Geometry in Computer Vision*.
-- 🌱 I’m currently working on GRE & applying for a graduate program...suggestions are welcomed!
-- 🤔 I’m looking for help with CV & graphics
+- 🌱 I’m currently applying for a graduate program...suggestions are welcomed!
+- 🤔 My current project is estimatin 6D poses of objects in reality. Hopefully it could be applied to some AR products!
 - 📫 How to reach me: xslialee070@outlook.com, wechat: PabloHoneyOK
-- ⚡ Fun fact: I am a big fan of Nintendo and we can have a good time tgt!
+- ⚡ Fun fact: I am a big fan of Nintendo and my favorite is ZELDA BoW. Maybe we can have a good time tgt!
 <table>
  <tr>
    <td><a href="https://github.com/anuraghazra/github-readme-stats">
