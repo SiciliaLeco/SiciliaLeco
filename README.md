@@ -19,7 +19,7 @@ Thanks for visiting this webpage! I'm Li Qilin (Sicilia), final year student of 
 
 - 🔭 I’m learning *Ploygon Mesh Processing & Multiple View Geometry in Computer Vision*.
 - 🌱 I’m currently applying for a graduate program...suggestions are welcomed!
-- 🤔 My current project is estimatin 6D poses of objects in reality. Hopefully it could be applied to some AR products!
+- 🤔 My current project is to estimate 6D poses of objects in reality. Hopefully it could be applied to some AR products!
 - 📫 How to reach me: xslialee070@outlook.com, wechat: PabloHoneyOK
 - ⚡ Fun fact: I am a big fan of Nintendo and my favorite is ZELDA BoW. Maybe we can have a good time tgt!
 <table>
