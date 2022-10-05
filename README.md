@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Thanks for visiting this webpage! I'm Li Qilin (Sicilia), final year student of Computer Science And Technology @CQU. Here are some info about ME:
+Thanks for visiting this webpage! My name is Li Qilin (Sicilia), a MS CSE student @Georgia Tech. Currently I'm looking for SDE internship opportunities in 2023 Summer.
 
+How to reach me: xslialee070@outlook.com
+<!--
 - 🔭 I’m learning *Ploygon Mesh Processing & Multiple View Geometry in Computer Vision*.
 - 😄 My research interests includes Human Activity Analysis and 3D reconstruction.
 - 🤔 My recent work to estimate 6D poses of 3D objects in the wild.
 - 📫 How to reach me: xslialee070@outlook.com, wechat: PabloHoneyOK
 - ⚡ Fun fact: I am a big fan of Nintendo and my favorite game is ZELDA BoW. Maybe we can have a good time tgt!
+-->
 <table>
  <tr>
    <td><a href="https://github.com/anuraghazra/github-readme-stats">
