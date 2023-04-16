@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Thanks for visiting this webpage! My name is Li Qilin (Sicilia), a MS CSE student @Georgia Tech. Currently I'm looking for SDE internship opportunities in 2023 Summer.
-
+Thanks for visiting this webpage! My name is Li Qilin (Sicilia), a MS CSE student @Georgia Tech. 
 How to reach me: xslialee070@outlook.com
 <!--
 - 🔭 I’m learning *Ploygon Mesh Processing & Multiple View Geometry in Computer Vision*.
